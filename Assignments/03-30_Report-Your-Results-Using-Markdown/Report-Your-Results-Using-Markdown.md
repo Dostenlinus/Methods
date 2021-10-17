@@ -3,9 +3,9 @@ This assignment is for you to learn to use emacs and Markdown and GitHub to give
 
 * Because I fiddle with the numbers that prefix the name of files, when you see `[Num]` below, that is a standin for whatever the actual numerical prefix is for the file in question. So, for example, I would refer to this file as `[Num]_Report-Your-Results-Using-Markdown.md`
 
-1. First you need a fork of the Methods repo.  If you have already interacted with it by making a PR, then you already have a fork.  Otherwise, just go to https://github.com/ccarrollATjhuecon/Methods (WHILE LOGGED INTO YOUR OWN GITHUB ACCCOUNT), and click the Fork button.
+1. First you need a fork of the Methods repo.  If you have already interacted with it by making a PR, then you already have a fork.  Otherwise, just go to https://github.com/ccarrollATjhuecon/Methods (WHILE LOGGED INTO YOUR OWN GITHUB ACCCOUNT), and click the Fork button. *Done [DLO]
 
-1. Next, clone your fork to your local computer, where you will be editing each of the assignments
+1. Next, clone your fork to your local computer, where you will be editing each of the assignments *Done [DLO]
 
 0. Using Emacs, edit the assignments as described below:
 
@@ -37,7 +37,7 @@ This assignment is for you to learn to use emacs and Markdown and GitHub to give
 
    0. When you are done editing the assignments, you should be able to examine the resulting prettified Markdown document by hitting C-c C-c p (that is, Control-C, Control-C, p). You may want to search about this command online. (Google: `markdown editing mode in emacs`)
    
-0. When you are done with editing each assignment:
+0. When you are done with editing each assignment: *Done [DLO]
    * add your changes to your fork of the repo:
       `git add [whatever is the assignment name]`
    * commit the assignment with a commit command:
